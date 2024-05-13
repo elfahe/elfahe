@@ -1,0 +1,66 @@
+{
+  "name": "elfahe",
+  "version": "1.0.0",
+  "description": "<!--\r **elfahe/elfahe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elfahe/elfahe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elfahe/elfahe/issues"
+  },
+  "homepage": "https://github.com/elfahe/elfahe#readme",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "dependencies": {
+    "array-uniq": "^1.0.3",
+    "async": "^3.2.5",
+    "array-union": "^1.0.2",
+    "commander": "^11.1.0",
+    "balanced-match": "^1.0.2",
+    "brace-expansion": "^1.1.11",
+    "commondir": "^1.0.1",
+    "filename-reserved-regex": "^2.0.0",
+    "email-addresses": "^5.0.0",
+    "concat-map": "^0.0.1",
+    "escape-string-regexp": "^1.0.5",
+    "find-cache-dir": "^3.3.2",
+    "filenamify": "^4.3.0",
+    "fs-extra": "^11.2.0",
+    "find-up": "^4.1.0",
+    "fs.realpath": "^1.0.0",
+    "globby": "^6.1.0",
+    "glob": "^7.2.3",
+    "inflight": "^1.0.6",
+    "graceful-fs": "^4.2.11",
+    "inherits": "^2.0.4",
+    "jsonfile": "^6.1.0",
+    "locate-path": "^5.0.0",
+    "minimatch": "^3.1.2",
+    "make-dir": "^3.1.0",
+    "once": "^1.4.0",
+    "object-assign": "^4.1.1",
+    "p-try": "^2.2.0",
+    "p-locate": "^4.1.0",
+    "path-exists": "^4.0.0",
+    "p-limit": "^2.3.0",
+    "path-is-absolute": "^1.0.1",
+    "pinkie": "^2.0.4",
+    "pify": "^2.3.0",
+    "pinkie-promise": "^2.0.1",
+    "strip-outer": "^1.0.1",
+    "pkg-dir": "^4.2.0",
+    "trim-repeated": "^1.0.0",
+    "universalify": "^2.0.1",
+    "semver": "^6.3.1",
+    "wrappy": "^1.0.2"
+  }
+}
